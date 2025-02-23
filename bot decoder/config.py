@@ -1,9 +1,9 @@
 from aiogram import Bot
 
-TOKEN = '8170075038:AAHhO4Qc7Sio-e0tpx2VVrBIh0PmWIs08oQ'
-ADMIN_ID = 777791072
+TOKEN = 'TOKEN'
+ADMIN_ID = ADMIN_ID
 
 bot = Bot(TOKEN)
 
-KEYID = 'hnDvFUsrQQAFXzxv'
-KEYSECRET = 'f4tWiqRueE4HB8i0'
+KEYID = 'key' #Ключ к сервису расшифровщику
+KEYSECRET = 'key_secret'
